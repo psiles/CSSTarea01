@@ -1,0 +1,28 @@
+
+
+h1{
+   font-family: sans-serif;
+   color: rgb(61, 53, 53);
+   font-size: 3em;
+   margin-bottom: 0.3em;
+    }
+
+span {
+    font-size: smaller;
+    color: grey;
+}
+
+p {
+    margin-top: 2em;;
+    line-height: 1.7em;
+}
+
+button {
+    color: tomato;
+}
+
+
+article {
+    margin: auto;
+    width: 600px;
+}
